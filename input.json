@@ -1,0 +1,13 @@
+{
+  "locations": [
+    "Miami"
+  ],
+  "maxEvents": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "RESIDENTIAL"
+    ],
+    "scrapelyProxyCountry": "US"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "posh-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Posh Events Scraper: Scrape posh.vip events by city, keyword or organizer: dates, venues, ticket prices, tickets sold and organizer emails. No login needed. Export JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "posh"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
